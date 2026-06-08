@@ -2,7 +2,7 @@
 #include<conio.h>
 using namespace std;
 int main(){
-int n
+int n;
 cout<<"Hello world";
 cin>>n;
 
